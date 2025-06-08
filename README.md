@@ -7,4 +7,5 @@
 1. найти @BotFather
 2. создать бота и получить его токен
 3. в папке config в файле .env указать свой токен без кавычек
-4. запустить bot.py
+4. pip install -r requirements.txt
+5. запустить bot.py
